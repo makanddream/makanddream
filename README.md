@@ -21,7 +21,16 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/makanddream/#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/makanddream/#gh-dark-mode-only)
 
-<br />
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://www.youtube.com/channel/UC2DpgEGPUw13M-rm7LToZnQ)
+
+---
 
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
