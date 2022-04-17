@@ -26,6 +26,9 @@
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [ASPD100 DEMO 1](https://www.youtube.com/watch?v=vp8d3J2XtJ8)
+- [PNP DEMO 1](https://www.youtube.com/watch?v=CqzkE9SHeLc)
+- [Cold Shower Water Reused](https://www.youtube.com/watch?v=0wVMald6U2E)
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/channel/UC2DpgEGPUw13M-rm7LToZnQ)
