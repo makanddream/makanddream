@@ -7,6 +7,10 @@
 - 🥅 2022 Goals: Finish and sell the ASPD100 tool
 - ⚡ Fun fact: I like to walk with my dog and play piano
 
+## My Working Lab
+
+![Alt Text](./img/labo.gif)
+
 ### Connect with me:
 
 [![website](./img/globe-light.svg)](https://makanddream.fr#gh-light-mode-only)
