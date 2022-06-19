@@ -43,6 +43,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Opened issue [#3395](https://github.com/felangel/bloc/issues/3395) in [felangel/bloc](https://github.com/felangel/bloc)
 <!--END_SECTION:activity-->
 
 </details>
